@@ -30,5 +30,15 @@ Et si je click dessus je vois un fichier qui est vide et non traker.
 ## Gitgraph![img.png](img.png)
 
 ### Task 7
+1. Est une branche faisant partie du développement
+2. Est un cummit Hash (C'est un numéro dédier a ce commit qui le rendra unique.)
+3. Est un message en lien avec le commit (aide a l'arborécence)
+4. C'est l'auteur des modifications
+5. Est un tag de mon versionnage dont je suis satisfait a ce moment ci
+6. C'est le dernier commit existant en général celui qui est marquer No changes au départ
+7. est une nouvelle branche du commit main
+8. est un point du commit de la branche main tirée du Github
+9. est une merge de la version de base prise sur github
+10. est le document originel versionnage github sans modification.
 
 ![Gitgraph](img/gitgraph.svg)
