@@ -1,7 +1,9 @@
-# Answers of <students-firstname> <students-lastname> <github-username>
+# Answers of Jerry Maillard Jerry-cut
 
 ## Basics
 ### Task 1
+1 unstaged file  /  il affiche mtn les éléments supprimer en rouge et le éléemnt modifier en vert
+
 
 ### Task 2
 
